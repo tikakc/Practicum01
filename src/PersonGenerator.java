@@ -98,7 +98,7 @@ public class PersonGenerator {
                 writer.newLine();
             }
 
-            // Close the writer to flush and seal the file
+            // Close the writer
             writer.close();
             System.out.println("\nData file written successfully!");
 
